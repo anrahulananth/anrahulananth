@@ -8,6 +8,6 @@ I'm a web and mobile applications developer. I am your typical millennial. I spe
 
 I design and develop responsive desktop and mobile web applications. I also like working on search engine optimisation, analytics. Most of my time is spent on reading tech articles 📰, playing video games 🎮, coding 💻.
 
-Currently I'm working as a Full Stack Engineer at Lowe's India!
+Currently I'm working as a Full Stack Engineer at Lowe's India
 
 I like to travel 🚋, go on hikes 🌄, binge-watch TV shows 📺, enjoy good music 🎵 and read books 📚.
