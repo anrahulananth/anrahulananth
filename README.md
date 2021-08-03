@@ -11,3 +11,5 @@ I design and develop responsive desktop and mobile web applications. I also like
 Currently I'm working as a Full Stack Engineer at Lowe's India
 
 I like to travel 🚋, go on hikes 🌄, binge-watch TV shows 📺, enjoy good music 🎵 and read books 📚.
+
+[![Rahul A N's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrahulananth)](https://github.com/anuraghazra/github-readme-stats)
