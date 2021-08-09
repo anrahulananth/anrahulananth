@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Ananth 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Frahulananth.in)](https://rahulananth.in)
+[![Website](https://img.shields.io/website?label=rahulananth.in&style=for-the-badge&url=https%3A%2F%2Frahulananth.in)](https://rahulananth.in)
 
 Thanks for stopping by my profile! 
 <!-- **anrahulananth/anrahulananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
