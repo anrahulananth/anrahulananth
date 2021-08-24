@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Ananth 👋
 
-[![Website](https://img.shields.io/website?label=rahulananth.in&style=for-the-badge&url=https%3A%2F%2Frahulananth.in)](https://rahulananth.in)
+![](https://komarev.com/ghpvc/?username=anrahulananth&style=flat-square)
 
 Thanks for stopping by my profile! 
 <!-- **anrahulananth/anrahulananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -11,7 +11,11 @@ Currently I'm working as a Full Stack Engineer at Walmart Global Tech
 
 I like to travel 🚋, go on hikes 🌄, binge-watch TV shows 📺, enjoy good music 🎵 and read books 📚.
 
-### Languages and Tools:
+## Contact Me:
+
+Mail Id: [rahul.anantharama@gmail.com](mailto:rahul.anantharama@gmail.com)
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
